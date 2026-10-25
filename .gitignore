@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+steamaudio_lite.zip
+t.py
+TrueAudioNext.dll
+upx.exe
+bass.dll
+bass_hrtf-.c
+bass_hrtf.exp
+bass_hrtf.lib
+footstep.wav
+phonon.dll
+GPUUtilities.dll
+release_x86
+release_x64

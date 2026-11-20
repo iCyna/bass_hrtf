@@ -8,8 +8,28 @@ bass.dll
 bass_hrtf-.c
 bass_hrtf.exp
 bass_hrtf.lib
+BASS_HRTF - Sao chép.C
 footstep.wav
 phonon.dll
 GPUUtilities.dll
 release_x86
 release_x64
+release_x86
+release_x64
+release_win_arm64
+release_macos
+release_linux
+release_ios
+release_android
+*.zip
+*.cpp
+phonon_version.h
+phonon_interfaces.h
+phonon.h
+phonon.dll
+libbass_steamaudio.zip
+Trò chuyện riêng tư mahssa nói:ok wayt
+lib_shipper.bat
+lib shipper platform.txt
+GPUUtilities.dll
+call.bat
